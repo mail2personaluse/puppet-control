@@ -17,5 +17,5 @@ mod "puppetlabs/java",        '1.6.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 mode 'ssh'
-  :git => 'https://github.com/mail2personaluse/puppet-ssh.git',
+  :git => 'https://github.com/mail2personaluse/puppet-ssh',
   :ref => 'master'
